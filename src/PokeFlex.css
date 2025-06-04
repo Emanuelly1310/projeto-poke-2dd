@@ -1,0 +1,10 @@
+.PokeFlex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    align-self: center;
+
+}
